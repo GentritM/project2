@@ -3,7 +3,13 @@
 
 delete the venv directory
 create new virtualenv
+
+windows: pip install virtualenv 
+virtualenv myenv
+
 activate it
+myenv\Scripts\activate
+
 install the reqs with:
 $pip install -r requirements.txt
 
