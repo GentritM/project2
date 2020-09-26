@@ -27,3 +27,5 @@ $python app.py db upgrade
 
 then:
 $python app.py runserver
+
+the file that has to be modified is at templates/timeline.html
