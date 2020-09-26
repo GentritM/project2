@@ -5,6 +5,7 @@ delete the venv directory
 create new virtualenv
 
 windows: pip install virtualenv 
+
 virtualenv myenv
 
 activate it
